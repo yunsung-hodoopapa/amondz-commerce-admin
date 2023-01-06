@@ -9,13 +9,11 @@
   - 브라우져 : 크롬 최신 버전
 
 ```
-  git clone https://github.com/yunsung-hodoopapa/amondz-commerce-admin.git
+git clone https://github.com/yunsung-hodoopapa/amondz-commerce-admin.git
 
-  cd admonz-commerce-admin
+cd amondz-commerce-admin
 
-  git checkout main
-
-  npm install && npm run build && npm run start
+npm install && npm run build && npm run start
 
 ```
 
